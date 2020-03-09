@@ -6,3 +6,5 @@ The repo contains three notebooks: <br>
 1.Data transform notebook, to clean the data <br>
 2.Random Forest Model explanation using: Shap and Partial dependence plot <br>
 3. DNN model explanation using LIME methodology <br>
+
+The repo also contains an abstract describing the methods followed in this project
